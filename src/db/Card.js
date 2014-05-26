@@ -9,7 +9,7 @@
 
             /**
              * Returns unique identifier of the card
-             * (Composed of Set Identifier concatenated with . and card#)
+             * (Composed of Set identifier concatenated with . and card#)
              *
              * @returns {String}
              */
@@ -18,7 +18,7 @@
             },
 
             /**
-             * Returns the translated Card name
+             * Returns the translated card name
              *
              * @param {String} lg Language code
              * @returns {string}
@@ -30,7 +30,7 @@
             /**
              * Returns initial card kind
              *
-             * @returns {Number}
+             * @returns {pkml.db.Card.KIND}
              */
             kind: function () {
                 return pkml.db.Card.KIND.NONE;
@@ -38,9 +38,9 @@
 
             /**
              * In some situations, a card might have an alternate kind
-             * (for instance, Unown Q)
+             * (for instance, Unown Q which is also a tool)
              *
-             * @returns {Number}
+             * @returns {pkml.db.Card.KIND}
              */
             alternateKind: function () {
                 return pkml.db.Card.KIND.NONE;
@@ -49,10 +49,77 @@
             /**
              * Element type
              *
-             * @returns {Number}
+             * @returns {pkml.db.Card.TYPE}
              */
             type: function () {
                 return pkml.db.Card.TYPE.NEUTRAL;
+            },
+
+            //region Creature specific
+
+            /**
+             * Pokemon species
+             *
+             * @return {Number}
+             */
+            species: function () {
+                return 0;
+            },
+
+            /**
+             * Pokemon level
+             *
+             * @return {number}
+             */
+            level: function () {
+                return 0;
+            },
+
+            /**
+             * Pokemon health point
+             *
+             * @return {number}
+             */
+            hp: function () {
+                return 0;
+            },
+
+            /**
+             * Pokemon weakness
+             *
+             * @return {null}pkml.db.Modifier}
+             */
+            weakness: function () {
+                return null;
+            },
+
+            /**
+             * Pokemon resistance
+             *
+             * @return {null|pkml.db.Modifier}
+             */
+            resistance: function () {
+                return null;
+            },
+
+            /**
+             * Retreat cost
+             *
+             * @return {pkml.db.Card.TYPE[]}
+             */
+            retreat: function () {
+                return [];
+            },
+
+            //endregion
+
+            /**
+             * Card moves
+             *
+             * @return {null|pkml.db.Move[]}
+             */
+            moves: function () {
+                return null;
             }
 
         },
@@ -98,8 +165,91 @@
                 LIGHTNING: 6,
                 FIRE: 7,
                 FIGHTING: 8
+            },
+
+            /**
+             * Damage operator
+             * Used for weakness, strength & moves
+             *
+             * @type {Number}
+             */
+            MODIFIER: {
+                NONE: 0,
+                ADD: 1,
+                SUB: 2,
+                MULTIPLY: 3
             }
 
+        }
+
+    });
+
+    gpf.define("pkml.db.Modifier", "gpf.interfaces.Interface", {
+
+        public: {
+
+            /**
+             * Modifier
+             *
+             * @return {pkml.db.Card.MODIFIER}
+             */
+            modifier: function () {
+                return pkml.db.Card.MODIFIER.NONE;
+            },
+
+            /**
+             * Damage
+             *
+             * @return {number}
+             */
+            damage: function () {
+                return 0;
+            }
+
+        }
+
+    });
+
+    gpf.define("pkml.db.Move", "gpf.interfaces.Interface", {
+
+        public: {
+
+            /**
+             * Returns the translated move name
+             *
+             * @param {String} lg Language code
+             * @return {string}
+             */
+            name: function (lg) {
+                return "";
+            },
+
+            /**
+             * Cost to pay to allow move execution
+             *
+             * @return {pkml.db.Card.TYPE[]}
+             */
+            cost: function () {
+                return [];
+            },
+
+            /**
+             * Damage of the move
+             *
+             * @return {number}
+             */
+            damage: function () {
+                return 0;
+            },
+
+            /**
+             * Damage modifier
+             *
+             * @return {pkml.db.Card.MODIFIER}
+             */
+            modifier: function () {
+                return pkml.db.Card.MODIFIER.NONE;
+            }
         }
 
     });
