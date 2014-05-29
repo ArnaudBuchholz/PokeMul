@@ -11,7 +11,7 @@
              * Returns unique identifier of the card
              * (Composed of Set identifier concatenated with . and card#)
              *
-             * @returns {String}
+             * @return {String}
              */
             uid: function () {
                 return "";
@@ -21,7 +21,7 @@
              * Returns the translated card name
              *
              * @param {String} lg Language code
-             * @returns {string}
+             * @return {string}
              */
             name: function (lg) {
                 return "";
@@ -30,7 +30,7 @@
             /**
              * Returns initial card kind
              *
-             * @returns {pkml.db.Card.KIND}
+             * @return {pkml.db.Card.KIND}
              */
             kind: function () {
                 return pkml.db.Card.KIND.NONE;
@@ -40,7 +40,7 @@
              * In some situations, a card might have an alternate kind
              * (for instance, Unown Q which is also a tool)
              *
-             * @returns {pkml.db.Card.KIND}
+             * @return {pkml.db.Card.KIND}
              */
             alternateKind: function () {
                 return pkml.db.Card.KIND.NONE;
@@ -49,7 +49,7 @@
             /**
              * Element type
              *
-             * @returns {pkml.db.Card.TYPE}
+             * @return {pkml.db.Card.TYPE}
              */
             type: function () {
                 return pkml.db.Card.TYPE.NEUTRAL;
@@ -116,10 +116,10 @@
             /**
              * Card moves
              *
-             * @return {null|pkml.db.Move[]}
+             * @return {pkml.db.Move[]}
              */
             moves: function () {
-                return null;
+                return [];
             }
 
         },
@@ -249,6 +249,16 @@
              */
             modifier: function () {
                 return pkml.db.Card.MODIFIER.NONE;
+            },
+
+            /**
+             * Returns the translated move description
+             *
+             * @param {String} lg Language code
+             * @return {string}
+             */
+            description: function (lg) {
+                return "";
             }
         }
 
