@@ -26,7 +26,7 @@
              *
              * @return {Number}
              */
-            count: function () {
+            length: function () {
                 return 0;
             },
 

@@ -56,7 +56,7 @@
              * @return {Number}
              * 0 if the set is not yet loaded
              */
-            count: function () {
+            length: function () {
                 return 0;
             },
 
