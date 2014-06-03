@@ -10,7 +10,4 @@
         gpf.context().pkml = {};
     }
 
-
-
-
 }()); /* End of privacy scope */

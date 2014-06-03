@@ -15,6 +15,7 @@
              * @implements pkml.db.Database:initialize
              */
             initialize: function (options) {
+                return this._broadcaster;
             },
 
             /**
