@@ -1,0 +1,2971 @@
+<pokemons>
+	<!-- Official ones -->
+	<pokemon id="1"     species="1"
+             en="bulbasaur"
+             fr="bulbizarre"
+    />
+	<pokemon id="2"     species="1"
+             en="ivysaur"
+             fr="herbizarre"
+    />
+	<pokemon id="3"     species="1"
+             en="venusaur"
+             fr="florizarre"
+    />
+	<pokemon id="4"     species="2" 
+             en="charmander"
+             fr="salameche"
+    />
+	<pokemon id="5"     species="2" 
+             en="charmeleon"
+             fr="reptincel"
+    />
+	<pokemon id="6"     species="2" 
+             en="charizard"
+             fr="dracaufeu"
+    />
+	<pokemon id="7"     species="3" 
+             en="squirtle"
+             fr="carapuce"
+    />
+	<pokemon id="8"     species="3" 
+             en="wartortle"
+             fr="carabaffe"
+    />
+	<pokemon id="9"     species="3" 
+             en="blastoise"
+             fr="tortank"
+    />
+	<pokemon id="10"    species="4" 
+             en="caterpie"
+             fr="chenipan"
+    />
+	<pokemon id="11"    species="4" 
+             en="metapod"
+             fr="chrysacier"
+    />
+	<pokemon id="12"    species="4" 
+             en="butterfree"
+             fr="papilusion"
+    />
+	<pokemon id="13"    species="5" 
+             en="weedle"
+             fr="aspicot"
+    />
+	<pokemon id="14"    species="5" 
+             en="kakuna"
+             fr="coconfort"
+    />
+	<pokemon id="15"    species="5" 
+             en="beedrill"
+             fr="dardargnan"
+    />
+	<pokemon id="16"    species="6" 
+             en="pidgey"
+             fr="roucool"
+    />
+	<pokemon id="17"    species="6" 
+             en="pidgeotto"
+             fr="roucoups"
+    />
+	<pokemon id="18"    species="6" 
+             en="pidgeot"
+             fr="roucarnage"
+    />
+	<pokemon id="19"    species="7" 
+             en="rattata"
+             fr="rattata"
+    />
+	<pokemon id="20"    species="7" 
+             en="raticate"
+             fr="rattatac"
+    />
+	<pokemon id="21"      species="8" 
+             en="spearow"
+             fr="piafabec"
+    />
+	<pokemon id="22"      species="8" 
+             en="fearow"
+             fr="rapasdepic"
+    />
+	<pokemon id="23"      species="9" 
+             en="ekans"
+             fr="abo"
+    />
+	<pokemon id="24"      species="9" 
+             en="arbok"
+             fr="arbok"
+    />
+	<pokemon id="25"      species="10" 
+             en="pikachu"
+             fr="pikachu"
+    />
+	<pokemon id="26"      species="10" 
+             en="raichu"
+             fr="raichu"
+    />
+	<pokemon id="27"      species="11" 
+             en="sandshrew"
+             fr="sabelette"
+    />
+	<pokemon id="28"      species="11" 
+             en="sandslash"
+             fr="sablaireau"
+    />
+	<pokemon id="29"      species="12" 
+             en="nidoran f"
+             fr="nidoran f"
+    />
+	<pokemon id="30"      species="12" 
+             en="nidorina"
+             fr="nidorina"
+    />
+	<pokemon id="31"      species="12" 
+             en="nidoqueen"
+             fr="nidoqueen"
+    />
+	<pokemon id="32"      species="13" 
+             en="nidoran m"
+             fr="nidoran m"
+    />
+	<pokemon id="33"      species="13" 
+             en="nidorino"
+             fr="nidorino"
+    />
+	<pokemon id="34"      species="13" 
+             en="nidoking"
+             fr="nidoking"
+    />
+	<pokemon id="35"      species="14" 
+             en="clefairy"
+             fr="melofee"
+    />
+	<pokemon id="36"      species="14" 
+             en="clefable"
+             fr="melodelfe"
+    />
+	<pokemon id="37"      species="15" 
+             en="vulpix"
+             fr="goupix"
+    />
+	<pokemon id="38"      species="15" 
+             en="ninetales"
+             fr="feunard"
+    />
+	<pokemon id="39"      species="16" 
+             en="jigglypuff"
+             fr="rondoudou"
+    />
+	<pokemon id="40"      species="16" 
+             en="wigglytuff"
+             fr="grodoudou"
+    />
+	<pokemon id="41"      species="17" 
+             en="zubat"
+             fr="nosferapti"
+    />
+	<pokemon id="42"      species="17" 
+             en="golbat"
+             fr="nosferalto"
+    />
+	<pokemon id="43"      species="18" 
+             en="oddish"
+             fr="mystherbe"
+    />
+	<pokemon id="44"      species="18" 
+             en="gloom"
+             fr="ortide"
+    />
+	<pokemon id="45"      species="18" 
+             en="vileplume"
+             fr="rafflesia"
+    />
+	<pokemon id="46"      species="19" 
+             en="paras"
+             fr="paras"
+    />
+	<pokemon id="47"      species="19" 
+             en="parasect"
+             fr="parasect"
+    />
+	<pokemon id="48"      species="20" 
+             en="venonat"
+             fr="mimitoss"
+    />
+	<pokemon id="49"      species="20" 
+             en="venomoth"
+             fr="aeromite"
+    />
+	<pokemon id="50"      species="21" 
+             en="diglett"
+             fr="taupiqueur"
+    />
+	<pokemon id="51"      species="21" 
+             en="dugtrio"
+             fr="triopikeur"
+    />
+	<pokemon id="52"      species="22" 
+             en="meowth"
+             fr="miaouss"
+    />
+	<pokemon id="53"      species="22" 
+             en="persian"
+             fr="persian"
+    />
+	<pokemon id="54"      species="23" 
+             en="psyduck"
+             fr="psykokwak"
+    />
+	<pokemon id="55"      species="23" 
+             en="golduck"
+             fr="akwakwak"
+    />
+	<pokemon id="56"      species="24" 
+             en="mankey"
+             fr="férosinge"
+    />
+	<pokemon id="57"      species="24" 
+             en="primeape"
+             fr="colossinge"
+    />
+	<pokemon id="58"      species="25" 
+             en="growlithe"
+             fr="caninos"
+    />
+	<pokemon id="59"      species="25" 
+             en="arcanine"
+             fr="arcanin"
+    />
+	<pokemon id="60"      species="26" 
+             en="poliwag"
+             fr="ptitard"
+    />
+	<pokemon id="61"      species="26" 
+             en="poliwhirl"
+             fr="tetarte"
+    />
+	<pokemon id="62"      species="26" 
+             en="poliwrath"
+             fr="tartard"
+    />
+	<pokemon id="63"      species="27" 
+             en="abra"
+             fr="abra"
+    />
+	<pokemon id="64"      species="27" 
+             en="kadabra"
+             fr="kadabra"
+    />
+	<pokemon id="65"      species="27" 
+             en="alakazam"
+             fr="alakazam"
+    />
+	<pokemon id="66"      species="28" 
+             en="machop"
+             fr="machoc"
+    />
+	<pokemon id="67"      species="28" 
+             en="machoke"
+             fr="machopeur"
+    />
+	<pokemon id="68"      species="28" 
+             en="machamp"
+             fr="mackogneur"
+    />
+	<pokemon id="69"      species="29" 
+             en="bellsprout"
+             fr="chetiflor"
+    />
+	<pokemon id="70"      species="29" 
+             en="weepinbell"
+             fr="boustiflor"
+    />
+	<pokemon id="71"      species="29" 
+             en="victreebel"
+             fr="empiflor"
+    />
+	<pokemon id="72"      species="30" 
+             en="tentacool"
+             fr="tentacool"
+    />
+	<pokemon id="73"      species="30" 
+             en="tentacruel"
+             fr="tentacruel"
+    />
+	<pokemon id="74"      species="31" 
+             en="geodude"
+             fr="racaillou"
+    />
+	<pokemon id="75"      species="31" 
+             en="graveler"
+             fr="gravalanch"
+    />
+	<pokemon id="76"      species="31" 
+             en="golem"
+             fr="grolem"
+    />
+	<pokemon id="77"      species="32" 
+             en="ponyta"
+             fr="ponyta"
+    />
+	<pokemon id="78"      species="32" 
+             en="rapidash"
+             fr="galopa"
+    />
+	<pokemon id="79"      species="33" 
+             en="slowpoke"
+             fr="ramoloss"
+    />
+	<pokemon id="80"      species="33" 
+             en="slowbro"
+             fr="flagadoss"
+    />
+	<pokemon id="81"      species="34" 
+             en="magnemite"
+             fr="magneti"
+    />
+	<pokemon id="82"      species="34" 
+             en="magneton"
+             fr="magneton"
+    />
+	<pokemon id="83"      species="35" 
+             en="farfetch'd"
+             fr="canarticho"
+    />
+	<pokemon id="84"      species="36" 
+             en="doduo"
+             fr="doduo"
+    />
+	<pokemon id="85"      species="36" 
+             en="dodrio"
+             fr="dodrio"
+    />
+	<pokemon id="86"      species="37" 
+             en="seel"
+             fr="otaria"
+    />
+	<pokemon id="87"      species="37" 
+             en="dewgong"
+             fr="lamantine"
+    />
+	<pokemon id="88"      species="38" 
+             en="grimer"
+             fr="tadmorv"
+    />
+	<pokemon id="89"      species="38" 
+             en="muk"
+             fr="grotadmorv"
+    />
+	<pokemon id="90"      species="39" 
+             en="shellder"
+             fr="kokiyas"
+    />
+	<pokemon id="91"      species="39" 
+             en="cloyster"
+             fr="crustabri"
+    />
+	<pokemon id="92"      species="40" 
+             en="gastly"
+             fr="fantominus"
+    />
+	<pokemon id="93"      species="40" 
+             en="haunter"
+             fr="spectrum"
+    />
+	<pokemon id="94"      species="40" 
+             en="gengar"
+             fr="ectoplasma"
+    />
+	<pokemon id="95"      species="41" 
+             en="onix"
+             fr="onix"
+    />
+	<pokemon id="96"      species="42" 
+             en="drowzee"
+             fr="soporifik"
+    />
+	<pokemon id="97"      species="42" 
+             en="hypno"
+             fr="hypnomade"
+    />
+	<pokemon id="98"      species="43" 
+             en="krabby"
+             fr="krabby"
+    />
+	<pokemon id="99"      species="43" 
+             en="kingler"
+             fr="krabboss"
+    />
+	<pokemon id="100"     species="44" 
+             en="voltorb"
+             fr="voltorbe"
+    />
+	<pokemon id="101"     species="44" 
+             en="electrode"
+             fr="electrode"
+    />
+	<pokemon id="102"     species="45" 
+             en="exeggcute"
+             fr="noeunoeuf"
+    />
+	<pokemon id="103"     species="45" 
+             en="exeggutor"
+             fr="noadkoko"
+    />
+	<pokemon id="104"     species="46" 
+             en="cubone"
+             fr="osselait"
+    />
+	<pokemon id="105"     species="46" 
+             en="marowak"
+             fr="ossatueur"
+    />
+	<pokemon id="106"     species="47" 
+             en="hitmonlee"
+             fr="kicklee"
+    />
+	<pokemon id="107"     species="47" 
+             en="hitmonchan"
+             fr="tygnon"
+    />
+	<pokemon id="108"     species="48" 
+             en="lickitung"
+             fr="excelangue"
+    />
+	<pokemon id="109"     species="49" 
+             en="koffing"
+             fr="smogo"
+    />
+	<pokemon id="110"     species="49" 
+             en="weezing"
+             fr="smogogo"
+    />
+	<pokemon id="111"     species="50" 
+             en="rhyhorn"
+             fr="rhinocorne"
+    />
+	<pokemon id="112"     species="50" 
+             en="rhydon"
+             fr="rhinoferos"
+    />
+	<pokemon id="113"     species="51" 
+             en="chansey"
+             fr="leveinard"
+    />
+	<pokemon id="114"     species="52" 
+             en="tangela"
+             fr="saquedeneu"
+    />
+	<pokemon id="115"     species="53" 
+             en="kangaskhan"
+             fr="kangourex"
+    />
+	<pokemon id="116"     species="54" 
+             en="horsea"
+             fr="hypotrempe"
+    />
+	<pokemon id="117"     species="54" 
+             en="seadra"
+             fr="hypocean"
+    />
+	<pokemon id="118"     species="55" 
+             en="goldeen"
+             fr="poissirene"
+    />
+	<pokemon id="119"     species="55" 
+             en="seaking"
+             fr="poissoroy"
+    />
+	<pokemon id="120"     species="56" 
+             en="staryu"
+             fr="stari"
+    />
+	<pokemon id="121"     species="56" 
+             en="starmie"
+             fr="staross"
+    />
+	<pokemon id="122"     species="57" 
+             en="mr. mime"
+             fr="m.mime"
+    />
+	<pokemon id="123"     species="58" 
+             en="scyther"
+             fr="insecateur"
+    />
+	<pokemon id="124"     species="59" 
+             en="jynx"
+             fr="lippoutou"
+    />
+	<pokemon id="125"     species="60" 
+             en="electabuzz"
+             fr="elektek"
+    />
+	<pokemon id="126"     species="61" 
+             en="magmar"
+             fr="magmar"
+    />
+	<pokemon id="127"     species="62" 
+             en="pinsir"
+             fr="scarabrute"
+    />
+	<pokemon id="128"     species="63" 
+             en="tauros"
+             fr="tauros"
+    />
+	<pokemon id="129"     species="64" 
+             en="magikarp"
+             fr="magicarpe"
+    />
+	<pokemon id="130"     species="64" 
+             en="gyarados"
+             fr="leviator"
+    />
+	<pokemon id="131"     species="65" 
+             en="lapras"
+             fr="lokhlass"
+    />
+	<pokemon id="132"     species="66" 
+             en="ditto"
+             fr="metamorph"
+    />
+	<pokemon id="133"     species="67" 
+             en="eevee"
+             fr="evoli"
+    />
+	<pokemon id="134"     species="67" 
+             en="vaporeon"
+             fr="aquali"
+    />
+	<pokemon id="135"     species="67" 
+             en="jolteon"
+             fr="voltali"
+    />
+	<pokemon id="136"     species="67" 
+             en="flareon"
+             fr="pyroli"
+    />
+	<pokemon id="137"     species="68" 
+             en="porygon"
+             fr="porygon"
+    />
+	<pokemon id="138"     species="69" 
+             en="omanyte"
+             fr="amonita"
+    />
+	<pokemon id="139"     species="69" 
+             en="omastar"
+             fr="amonistar"
+    />
+	<pokemon id="140"     species="70" 
+             en="kabuto"
+             fr="kabuto"
+    />
+	<pokemon id="141"     species="70" 
+             en="kabutops"
+             fr="kabutops"
+    />
+	<pokemon id="142"     species="71" 
+             en="aerodactyl"
+             fr="ptera"
+    />
+	<pokemon id="143"     species="72" 
+             en="snorlax"
+             fr="ronflex"
+    />
+	<pokemon id="144"     species="73" 
+             en="articuno"
+             fr="artikodin"
+    />
+	<pokemon id="145"     species="74" 
+             en="zapdos"
+             fr="electhor"
+    />
+	<pokemon id="146"     species="75" 
+             en="moltres"
+             fr="sulfura"
+    />
+	<pokemon id="147"     species="76" 
+             en="dratini"
+             fr="minidraco"
+    />
+	<pokemon id="148"     species="76" 
+             en="dragonair"
+             fr="draco"
+    />
+	<pokemon id="149"     species="76" 
+             en="dragonite"
+             fr="dracolosse"
+    />
+	<pokemon id="150"     species="77" 
+             en="mewtwo"
+             fr="mewtwo"
+    />
+	<pokemon id="151"     species="78" 
+             en="mew"
+             fr="mew"
+    />
+	<pokemon id="152"     species="79" 
+             en="chikorita"
+             fr="germignon"
+    />
+	<pokemon id="153"     species="79" 
+             en="bayleef"
+             fr="macronium"
+    />
+	<pokemon id="154"     species="79" 
+             en="meganium"
+             fr="meganium"
+    />
+	<pokemon id="155"     species="80" 
+             en="cyndaquil"
+             fr="hericendre"
+    />
+	<pokemon id="156"     species="80" 
+             en="quilava"
+             fr="feurisson"
+    />
+	<pokemon id="157"     species="80" 
+             en="typhlosion"
+             fr="typhlosion"
+    />
+	<pokemon id="158"     species="81" 
+             en="totodile"
+             fr="kaiminus"
+    />
+	<pokemon id="159"     species="81" 
+             en="croconaw"
+             fr="crocrodil"
+    />
+	<pokemon id="160"     species="81" 
+             en="feraligatr"
+             fr="aligatueur"
+    />
+	<pokemon id="161"     species="82" 
+             en="sentret"
+             fr="fouinette"
+    />
+	<pokemon id="162"     species="82" 
+             en="furret"
+             fr="fouinar"
+    />
+	<pokemon id="163"     species="83" 
+             en="hoothoot"
+             fr="hoothoot"
+    />
+	<pokemon id="164"     species="83" 
+             en="noctowl"
+             fr="noarfang"
+    />
+	<pokemon id="165"     species="84" 
+             en="ledyba"
+             fr="coxy"
+    />
+	<pokemon id="166"     species="84" 
+             en="ledian"
+             fr="coxyclaque"
+    />
+	<pokemon id="167"     species="85" 
+             en="spinarak"
+             fr="mimigal"
+    />
+	<pokemon id="168"     species="85" 
+             en="ariados"
+             fr="migalos"
+    />
+	<pokemon id="169"     species="17" 
+             en="crobat"
+             fr="nostenfer"
+    />
+	<pokemon id="170"     species="86" 
+             en="chinchou"
+             fr="loupio"
+    />
+	<pokemon id="171"     species="86" 
+             en="lanturn"
+             fr="lanturn"
+    />
+	<pokemon id="172"     species="10" 
+             en="pichu"
+             fr="pichu"
+    />
+	<pokemon id="173"     species="14" 
+             en="cleffa"
+             fr="melo"
+    />
+	<pokemon id="174"     species="16" 
+             en="igglybuff"
+             fr="toudoudou"
+    />
+	<pokemon id="175"     species="87" 
+             en="togepi"
+             fr="togepi"
+    />
+	<pokemon id="176"     species="87" 
+             en="togetic"
+             fr="togetic"
+    />
+	<pokemon id="177"     species="88" 
+             en="natu"
+             fr="natu"
+    />
+	<pokemon id="178"     species="88" 
+             en="xatu"
+             fr="xatu"
+    />
+	<pokemon id="179"     species="89" 
+             en="mareep"
+             fr="wattouat"
+    />
+	<pokemon id="180"     species="89" 
+             en="flaaffy"
+             fr="lainergie"
+    />
+	<pokemon id="181"     species="89" 
+             en="ampharos"
+             fr="pharamp"
+    />
+	<pokemon id="182"     species="18" 
+             en="bellossom"
+             fr="joliflor"
+    />
+	<pokemon id="183"     species="90" 
+             en="marill"
+             fr="marill"
+    />
+	<pokemon id="184"     species="90" 
+             en="azumarill"
+             fr="azumarill"
+    />
+	<pokemon id="185"     species="91" 
+             en="sudowoodo"
+             fr="simularbre"
+    />
+	<pokemon id="186"     species="26" 
+             en="politoed"
+             fr="tarpaud"
+    />
+	<pokemon id="187"     species="92" 
+             en="hoppip"
+             fr="granivol"
+    />
+	<pokemon id="188"     species="92" 
+             en="skiploom"
+             fr="floravol"
+    />
+	<pokemon id="189"     species="92" 
+             en="jumpluff"
+             fr="cotovol"
+    />
+	<pokemon id="190"     species="93" 
+             en="aipom"
+             fr="capumain"
+    />
+	<pokemon id="191"     species="94" 
+             en="sunkern"
+             fr="tournegrin"
+    />
+	<pokemon id="192"     species="94" 
+             en="sunflora"
+             fr="heliatronc"
+    />
+	<pokemon id="193"     species="95" 
+             en="yanma"
+             fr="yanma"
+    />
+	<pokemon id="194"     species="96" 
+             en="wooper"
+             fr="axoloto"
+    />
+	<pokemon id="195"     species="96" 
+             en="quagsire"
+             fr="maraiste"
+    />
+	<pokemon id="196"     species="67" 
+             en="espeon"
+             fr="mentali"
+    />
+	<pokemon id="197"     species="67" 
+             en="umbreon"
+             fr="noctali"
+    />
+	<pokemon id="198"     species="97" 
+             en="murkrow"
+             fr="cornebre"
+    />
+	<pokemon id="199"     species="33" 
+             en="slowking"
+             fr="roigada"
+    />
+	<pokemon id="200"     species="98" 
+             en="misdreavus"
+             fr="feuforeve"
+    />
+	<pokemon id="201"     species="99" 
+             en="unown"
+             fr="zarbi"
+    />
+	<pokemon id="202"     species="100" 
+             en="wobbuffet"
+             fr="qulbutoke"
+    />
+	<pokemon id="203"     species="101" 
+             en="girafarig"
+             fr="girafarig"
+    />
+	<pokemon id="204"     species="102" 
+             en="pineco"
+             fr="pomdepik"
+    />
+	<pokemon id="205"     species="102" 
+             en="forretress"
+             fr="foretress"
+    />
+	<pokemon id="206"     species="103" 
+             en="dunsparce"
+             fr="insolourdo"
+    />
+	<pokemon id="207"     species="104" 
+             en="gligar"
+             fr="scorplane"
+    />
+	<pokemon id="208"     species="41" 
+             en="steelix"
+             fr="steelix"
+    />
+	<pokemon id="209"     species="105" 
+             en="snubbull"
+             fr="snubbull"
+    />
+	<pokemon id="210"     species="105" 
+             en="granbull"
+             fr="granbull"
+    />
+	<pokemon id="211"     species="106" 
+             en="qwilfish"
+             fr="qwilfish"
+    />
+	<pokemon id="212"     species="58" 
+             en="scizor"
+             fr="cizayox"
+    />
+	<pokemon id="213"     species="107" 
+             en="shuckle"
+             fr="caratroc"
+    />
+	<pokemon id="214"     species="108" 
+             en="heracross"
+             fr="scarhino"
+    />
+	<pokemon id="215"     species="109" 
+             en="sneasel"
+             fr="farfuret"
+    />
+	<pokemon id="216"     species="110" 
+             en="teddiursa"
+             fr="teddiursa"
+    />
+	<pokemon id="217"     species="110" 
+             en="ursaring"
+             fr="ursaring"
+    />
+	<pokemon id="218"     species="111" 
+             en="slugma"
+             fr="limagma"
+    />
+	<pokemon id="219"     species="111" 
+             en="magcargo"
+             fr="volcaropod"
+    />
+	<pokemon id="220"     species="112" 
+             en="swinub"
+             fr="marcacrin"
+    />
+	<pokemon id="221"     species="112" 
+             en="piloswine"
+             fr="cochignon"
+    />
+	<pokemon id="222"     species="113" 
+             en="corsola"
+             fr="corayon"
+    />
+	<pokemon id="223"     species="114" 
+             en="remoraid"
+             fr="remoraid"
+    />
+	<pokemon id="224"     species="114" 
+             en="octillery"
+             fr="octillery"
+    />
+	<pokemon id="225"     species="115" 
+             en="delibird"
+             fr="cadoizo"
+    />
+	<pokemon id="226"     species="116" 
+             en="mantine"
+             fr="demanta"
+    />
+	<pokemon id="227"     species="117" 
+             en="skarmory"
+             fr="airmure"
+    />
+	<pokemon id="228"     species="118" 
+             en="houndour"
+             fr="malosse"
+    />
+	<pokemon id="229"     species="118" 
+             en="houndoom"
+             fr="demolosse"
+    />
+	<pokemon id="230"     species="54" 
+             en="kingdra"
+             fr="hyporoi"
+    />
+	<pokemon id="231"     species="119" 
+             en="phanpy"
+             fr="phanpy"
+    />
+	<pokemon id="232"     species="119" 
+             en="donphan"
+             fr="donphan"
+    />
+	<pokemon id="233"     species="68" 
+             en="porygon2"
+             fr="porygon2"
+    />
+	<pokemon id="234"     species="120" 
+             en="stantler"
+             fr="cerfrousse"
+    />
+	<pokemon id="235"     species="121" 
+             en="smeargle"
+             fr="queulorior"
+    />
+	<pokemon id="236"     species="47" 
+             en="tyrogue"
+             fr="debugant"
+    />
+	<pokemon id="237"     species="47" 
+             en="hitmontop"
+             fr="kapoera"
+    />
+	<pokemon id="238"     species="59" 
+             en="smoochum"
+             fr="lippouti"
+    />
+	<pokemon id="239"     species="60" 
+             en="elekid"
+             fr="elekid"
+    />
+	<pokemon id="240"     species="61" 
+             en="magby"
+             fr="magby"
+    />
+	<pokemon id="241"     species="122" 
+             en="miltank"
+             fr="ecremeuh"
+    />
+	<pokemon id="242"     species="51" 
+             en="blissey"
+             fr="leuphorie"
+    />
+	<pokemon id="243"     species="123" 
+             en="raikou"
+             fr="raikou"
+    />
+	<pokemon id="244"     species="124" 
+             en="entei"
+             fr="entei"
+    />
+	<pokemon id="245"     species="125" 
+             en="suicune"
+             fr="suicune"
+    />
+	<pokemon id="246"     species="126" 
+             en="larvitar"
+             fr="embrylex"
+    />
+	<pokemon id="247"     species="126" 
+             en="pupitar"
+             fr="ymphect"
+    />
+	<pokemon id="248"     species="126" 
+             en="tyranitar"
+             fr="tyranocif"
+    />
+	<pokemon id="249"     species="127" 
+             en="lugia"
+             fr="lugia"
+    />
+	<pokemon id="250"     species="128" 
+             en="ho-oh"
+             fr="ho-oh"
+    />
+	<pokemon id="251"     species="129" 
+             en="celebi"
+             fr="celebi"
+    />
+	<pokemon id="252"     species="130" 
+             en="treecko"
+             fr="arcko"
+    />
+	<pokemon id="253"     species="130" 
+             en="grovyle"
+             fr="massko"
+    />
+	<pokemon id="254"     species="130" 
+             en="sceptile"
+             fr="jungko"
+    />
+	<pokemon id="255"     species="131" 
+             en="torchic"
+             fr="poussifeu"
+    />
+	<pokemon id="256"     species="131" 
+             en="combusken"
+             fr="galifeu"
+    />
+	<pokemon id="257"     species="131" 
+             en="blaziken"
+             fr="brasegali"
+    />
+	<pokemon id="258"     species="132" 
+             en="mudkip"
+             fr="gobou"
+    />
+	<pokemon id="259"     species="132" 
+             en="marshtomp"
+             fr="flobio"
+    />
+	<pokemon id="260"     species="132" 
+             en="swampert"
+             fr="laggron"
+    />
+	<pokemon id="261"     species="133" 
+             en="poochyena"
+             fr="medhyena"
+    />
+	<pokemon id="262"     species="133" 
+             en="mightyena"
+             fr="grahyena"
+    />
+	<pokemon id="263"     species="134" 
+             en="zigzagoon"
+             fr="zigzaton"
+    />
+	<pokemon id="264"     species="134" 
+             en="linoone"
+             fr="lineon"
+    />
+	<pokemon id="265"     species="135" 
+             en="wurmple"
+             fr="chenipotte"
+    />
+	<pokemon id="266"     species="135" 
+             en="silcoon"
+             fr="armulys"
+    />
+	<pokemon id="267"     species="135" 
+             en="beautifly"
+             fr="charmillon"
+    />
+	<pokemon id="268"     species="135" 
+             en="cascoon"
+             fr="blindalys"
+    />
+	<pokemon id="269"     species="135" 
+             en="dustox"
+             fr="papinox"
+    />
+	<pokemon id="270"     species="136" 
+             en="lotad"
+             fr="nenupiot"
+    />
+	<pokemon id="271"     species="136" 
+             en="lombre"
+             fr="lombre"
+    />
+	<pokemon id="272"     species="136" 
+             en="ludicolo"
+             fr="ludicolo"
+    />
+	<pokemon id="273"     species="137" 
+             en="seedot"
+             fr="grainipiot"
+    />
+	<pokemon id="274"     species="137" 
+             en="nuzleaf"
+             fr="pifeuil"
+    />
+	<pokemon id="275"     species="137" 
+             en="shiftry"
+             fr="tengalice"
+    />
+	<pokemon id="276"     species="138" 
+             en="taillow"
+             fr="nirondelle"
+    />
+	<pokemon id="277"     species="138" 
+             en="swellow"
+             fr="heledelle"
+    />
+	<pokemon id="278"     species="139" 
+             en="wingull"
+             fr="goelise"
+    />
+	<pokemon id="279"     species="139" 
+             en="pelipper"
+             fr="bekipan"
+    />
+	<pokemon id="280"     species="140" 
+             en="ralts"
+             fr="tarsal"
+    />
+	<pokemon id="281"     species="140" 
+             en="kirlia"
+             fr="kirlia"
+    />
+	<pokemon id="282"     species="140" 
+             en="gardevoir"
+             fr="gardevoir"
+    />
+	<pokemon id="283"     species="141" 
+             en="surskit"
+             fr="arakdo"
+    />
+	<pokemon id="284"     species="141" 
+             en="masquerain"
+             fr="maskadra"
+    />
+	<pokemon id="285"     species="142" 
+             en="shroomish"
+             fr="balignon"
+    />
+	<pokemon id="286"     species="142" 
+             en="breloom"
+             fr="chapignon"
+    />
+	<pokemon id="287"     species="143" 
+             en="slakoth"
+             fr="parecool"
+    />
+	<pokemon id="288"     species="143" 
+             en="vigoroth"
+             fr="vigoroth"
+    />
+	<pokemon id="289"     species="143" 
+             en="slaking"
+             fr="monaflemit"
+    />
+	<pokemon id="290"     species="144" 
+             en="nincada"
+             fr="ningale"
+    />
+	<pokemon id="291"     species="144" 
+             en="ninjask"
+             fr="ninjask"
+    />
+	<pokemon id="292"     species="144" 
+             en="shedinja"
+             fr="munja"
+    />
+	<pokemon id="293"     species="145" 
+             en="whismur"
+             fr="chuchmur"
+    />
+	<pokemon id="294"     species="145" 
+             en="loudred"
+             fr="ramboum"
+    />
+	<pokemon id="295"     species="145" 
+             en="exploud"
+             fr="brouhabam"
+    />
+	<pokemon id="296"     species="146" 
+             en="makuhita"
+             fr="makuhita"
+    />
+	<pokemon id="297"     species="146" 
+             en="hariyama"
+             fr="hariyama"
+    />
+	<pokemon id="298"     species="90" 
+             en="azurill"
+             fr="azurill"
+    />
+	<pokemon id="299"     species="147" 
+             en="nosepass"
+             fr="tarinor"
+    />
+	<pokemon id="300"     species="148" 
+             en="skitty"
+             fr="skitty"
+    />
+	<pokemon id="301"     species="148" 
+             en="delcatty"
+             fr="delcatty"
+    />
+	<pokemon id="302"     species="149" 
+             en="sableye"
+             fr="tenefix"
+    />
+	<pokemon id="303"     species="150" 
+             en="mawile"
+             fr="mysdibule"
+    />
+	<pokemon id="304"     species="151" 
+             en="aron"
+             fr="galekid"
+    />
+	<pokemon id="305"     species="151" 
+             en="lairon"
+             fr="galegon"
+    />
+	<pokemon id="306"     species="151" 
+             en="aggron"
+             fr="galeking"
+    />
+	<pokemon id="307"     species="152" 
+             en="meditite"
+             fr="meditikka"
+    />
+	<pokemon id="308"     species="152" 
+             en="medicham"
+             fr="charmina"
+    />
+	<pokemon id="309"     species="153" 
+             en="electrike"
+             fr="dynavolt"
+    />
+	<pokemon id="310"     species="153" 
+             en="manectric"
+             fr="elecsprint"
+    />
+	<pokemon id="311"     species="154" 
+             en="plusle"
+             fr="posipi"
+    />
+	<pokemon id="312"     species="155" 
+             en="minun"
+             fr="negapi"
+    />
+	<pokemon id="313"     species="156" 
+             en="volbeat"
+             fr="muciole"
+    />
+	<pokemon id="314"     species="157" 
+             en="illumise"
+             fr="lumivole"
+    />
+	<pokemon id="315"     species="158" 
+             en="roselia"
+             fr="roselia"
+    />
+	<pokemon id="316"     species="159" 
+             en="gulpin"
+             fr="gloupti"
+    />
+	<pokemon id="317"     species="159" 
+             en="swalot"
+             fr="avaltout"
+    />
+	<pokemon id="318"     species="160" 
+             en="carvanha"
+             fr="carvanha"
+    />
+	<pokemon id="319"     species="160" 
+             en="sharpedo"
+             fr="sharpedo"
+    />
+	<pokemon id="320"     species="161" 
+             en="wailmer"
+             fr="wailmer"
+    />
+	<pokemon id="321"     species="161" 
+             en="wailord"
+             fr="wailord"
+    />
+	<pokemon id="322"     species="162" 
+             en="numel"
+             fr="chamallot"
+    />
+	<pokemon id="323"     species="162" 
+             en="camerupt"
+             fr="camerupt"
+    />
+	<pokemon id="324"     species="163" 
+             en="torkoal"
+             fr="chartor"
+    />
+	<pokemon id="325"     species="164" 
+             en="spoink"
+             fr="spoink"
+    />
+	<pokemon id="326"     species="164" 
+             en="grumpig"
+             fr="groret"
+    />
+	<pokemon id="327"     species="165" 
+             en="spinda"
+             fr="spinda"
+    />
+	<pokemon id="328"     species="166" 
+             en="trapinch"
+             fr="kraknoix"
+    />
+	<pokemon id="329"     species="166" 
+             en="vibrava"
+             fr="vibraninf"
+    />
+	<pokemon id="330"     species="166" 
+             en="flygon"
+             fr="libegon"
+    />
+	<pokemon id="331"     species="167" 
+             en="cacnea"
+             fr="cacnéa"
+    />
+	<pokemon id="332"     species="167" 
+             en="cacturne"
+             fr="cacturne"
+    />
+	<pokemon id="333"     species="168" 
+             en="swablu"
+             fr="tylton"
+    />
+	<pokemon id="334"     species="168" 
+             en="altaria"
+             fr="altaria"
+    />
+	<pokemon id="335"     species="169" 
+             en="zangoose"
+             fr="mangriff"
+    />
+	<pokemon id="336"     species="170" 
+             en="seviper"
+             fr="seviper"
+    />
+	<pokemon id="337"     species="171" 
+             en="lunatone"
+             fr="seleroc"
+    />
+	<pokemon id="338"     species="172" 
+             en="solrock"
+             fr="solaroc"
+    />
+	<pokemon id="339"     species="173" 
+             en="barboach"
+             fr="barloche"
+    />
+	<pokemon id="340"     species="173" 
+             en="whiscash"
+             fr="barbicha"
+    />
+	<pokemon id="341"     species="174" 
+             en="corphish"
+             fr="ecrapince"
+    />
+	<pokemon id="342"     species="174" 
+             en="crawdaunt"
+             fr="colhomard"
+    />
+	<pokemon id="343"     species="175" 
+             en="baltoy"
+             fr="balbuto"
+    />
+	<pokemon id="344"     species="175" 
+             en="claydol"
+             fr="kaorine"
+    />
+	<pokemon id="345"     species="176" 
+             en="lileep"
+             fr="lilia"
+    />
+	<pokemon id="346"     species="176" 
+             en="cradily"
+             fr="vacilys"
+    />
+	<pokemon id="347"     species="177" 
+             en="anorith"
+             fr="anorith"
+    />
+	<pokemon id="348"     species="177" 
+             en="armaldo"
+             fr="armaldo"
+    />
+	<pokemon id="349"     species="178" 
+             en="feebas"
+             fr="barpau"
+    />
+	<pokemon id="350"     species="178" 
+             en="milotic"
+             fr="milobellus"
+    />
+	<pokemon id="351"     species="179" 
+             en="castform"
+             fr="morpheo"
+    />
+	<pokemon id="352"     species="180" 
+             en="kecleon"
+             fr="kecleon"
+    />
+	<pokemon id="353"     species="181" 
+             en="shuppet"
+             fr="polichombr"
+    />
+	<pokemon id="354"     species="181" 
+             en="banette"
+             fr="branette"
+    />
+	<pokemon id="355"     species="182" 
+             en="duskull"
+             fr="skelenox"
+    />
+	<pokemon id="356"     species="182" 
+             en="dusclops"
+             fr="teraclope"
+    />
+	<pokemon id="357"     species="183" 
+             en="tropius"
+             fr="tropius"
+    />
+	<pokemon id="358"     species="184" 
+             en="chimecho"
+             fr="eoko"
+    />
+	<pokemon id="359"     species="185" 
+             en="absol"
+             fr="absol"
+    />
+	<pokemon id="360"     species="100" 
+             en="wynaut"
+             fr="okeoke"
+    />
+	<pokemon id="361"     species="186" 
+             en="snorunt"
+             fr="stalgamin"
+    />
+	<pokemon id="362"     species="186" 
+             en="glalie"
+             fr="oniglali"
+    />
+	<pokemon id="363"     species="187" 
+             en="spheal"
+             fr="obalie"
+    />
+	<pokemon id="364"     species="187" 
+             en="sealeo"
+             fr="phogleur"
+    />
+	<pokemon id="365"     species="187" 
+             en="walrein"
+             fr="kaimorse"
+    />
+	<pokemon id="366"     species="188" 
+             en="clamperl"
+             fr="coquiperl"
+    />
+	<pokemon id="367"     species="188" 
+             en="huntail"
+             fr="serpang"
+    />
+	<pokemon id="368"     species="188" 
+             en="gorebyss"
+             fr="rosabyss"
+    />
+	<pokemon id="369"     species="189" 
+             en="relicanth"
+             fr="relicanth"
+    />
+	<pokemon id="370"     species="190" 
+             en="luvdisc"
+             fr="lovdisc"
+    />
+	<pokemon id="371"     species="191" 
+             en="bagon"
+             fr="draby"
+    />
+	<pokemon id="372"     species="191" 
+             en="shelgon"
+             fr="drackhaus"
+    />
+	<pokemon id="373"     species="191" 
+             en="salamence"
+             fr="drattak"
+    />
+	<pokemon id="374"     species="192" 
+             en="beldum"
+             fr="terhal"
+    />
+	<pokemon id="375"     species="192" 
+             en="metang"
+             fr="metang"
+    />
+	<pokemon id="376"     species="192" 
+             en="metagross"
+             fr="metalosse"
+    />
+	<pokemon id="377"     species="193" 
+             en="regirock"
+             fr="regirock"
+    />
+	<pokemon id="378"     species="194" 
+             en="regice"
+             fr="regice"
+    />
+	<pokemon id="379"     species="195" 
+             en="registeel"
+             fr="registeel"
+    />
+	<pokemon id="380"     species="196" 
+             en="latias"
+             fr="latias"
+    />
+	<pokemon id="381"     species="197" 
+             en="latios"
+             fr="latios"
+    />
+	<pokemon id="382"     species="198" 
+             en="kyogre"
+             fr="kyogre"
+    />
+	<pokemon id="383"     species="199" 
+             en="groudon"
+             fr="groudon"
+    />
+	<pokemon id="384"     species="200" 
+             en="rayquaza"
+             fr="rayquaza"
+    />
+	<pokemon id="385"     species="201" 
+             en="jirachi"
+             fr="jirachi"
+    />
+	<pokemon id="386"     species="202" 
+             en="deoxys"
+             fr="deoxys"
+    />
+	<pokemon id="387"     species="203" 
+             en="turtwig"
+             fr="tortipouss"
+              jp="naetoru" 
+    />
+	<pokemon id="388"     species="203" 
+             en="grotle"
+             fr="boskara"
+              jp="hayashigame" 
+    />
+	<pokemon id="389"     species="203" 
+             en="torterra"
+             fr="torterra"
+              jp="dotaitos" 
+    />
+	<pokemon id="390"     species="204" 
+             en="chimchar"
+             fr="ouisticram"
+              jp="hikozaru" 
+    />
+	<pokemon id="391"     species="204" 
+             en="monferno"
+             fr="chimpenfeu"
+              jp="moukazaru" 
+    />
+	<pokemon id="392"     species="204" 
+             en="infernape"
+             fr="simiabraz"
+              jp="goukazaru" 
+    />
+	<pokemon id="393"     species="205" 
+             en="piplup"
+             fr="tiplouf"
+              jp="pochama" 
+    />
+	<pokemon id="394"     species="205" 
+             en="prinplup"
+             fr="prinplouf"
+              jp="pottaishi" 
+    />
+	<pokemon id="395"     species="205" 
+             en="empoleon"
+             fr="pingoleon"
+              jp="enperuto" 
+    />
+	<pokemon id="396"     species="206" 
+             en="starly"
+             fr="etourmi"
+              jp="mukkuru" 
+    />
+	<pokemon id="397"     species="206" 
+             en="staravia"
+             fr="etourvol"
+              jp="mukkubird" 
+    />
+	<pokemon id="398"     species="206" 
+             en="staraptor"
+             fr="etouraptor"
+              jp="mukuhawk" 
+    />
+	<pokemon id="399"     species="207" 
+             en="bidoof"
+             fr="keunotor"
+              jp="bippa" 
+    />
+	<pokemon id="400"     species="207" 
+             en="bibarel"
+             fr="castorno"
+              jp="biidaru" 
+    />
+	<pokemon id="401"     species="208" 
+             en="kricketot"
+             fr="crikzik"
+              jp="korobooshi" 
+    />
+	<pokemon id="402"     species="208" 
+             en="kricketune"
+             fr="melokrik"
+              jp="korotokku" 
+    />
+	<pokemon id="403"     species="209" 
+             en="shinx"
+             fr="lixy"
+              jp="korinku" 
+    />
+	<pokemon id="404"     species="209" 
+             en="luxio"
+             fr="luxio"
+              jp="rukushio" 
+    />
+	<pokemon id="405"     species="209" 
+             en="luxray"
+             fr="luxray"
+              jp="rentoraa" 
+    />
+	<pokemon id="406"     species="158" 
+             en="budew"
+             fr="rozbouton"
+              jp="subomi" 
+    />
+	<pokemon id="407"     species="158" 
+             en="roserade"
+             fr="roserade"
+              jp="rozureido" 
+    />
+	<pokemon id="408"     species="210" 
+             en="cranidos"
+             fr="kranidos"
+              jp="zugaidosu" 
+    />
+	<pokemon id="409"     species="210" 
+             en="rampardos"
+             fr="charkos"
+              jp="ramuparudo" 
+    />
+	<pokemon id="410"     species="211" 
+             en="shieldon"
+             fr="dinoclier"
+              jp="tatetopusu" 
+    />
+	<pokemon id="411"     species="211" 
+             en="bastiodon"
+             fr="bastiodon"
+              jp="toridepusu" 
+    />
+	<pokemon id="412"     species="212" 
+             en="burmy"
+             fr="cheniti"
+              jp="minomucchi" 
+    />
+	<pokemon id="413"     species="212" 
+             en="wormadam"
+             fr="cheniselle"
+              jp="minomadamu"/>
+	<pokemon id="414"     species="212" 
+             en="mothim"
+             fr="papilord"
+              jp="garmeil" 
+    />
+	<pokemon id="415"     species="213" 
+             en="combee"
+             fr="apitrini"
+              jp="mitsuhoney" 
+    />
+	<pokemon id="416"     species="213" 
+             en="vespiquen"
+             fr="apireine"
+              jp="beequeen" 
+    />
+	<pokemon id="417"     species="214" 
+             en="pachirisu"
+             fr="pachirisu"
+              jp="pachirisu" 
+    />
+	<pokemon id="418"     species="215" 
+             en="buizel"
+             fr="mustébouée"
+              jp="buoysel" 
+    />
+	<pokemon id="419"     species="215" 
+             en="floatzel"
+             fr="mustéflott"
+              jp="floatsel" 
+    />
+	<pokemon id="420"     species="216" 
+             en="cherubi"
+             fr="ceribou"
+              jp="cherinbo" 
+    />
+	<pokemon id="421"     species="216" 
+             en="cherrim"
+             fr="ceriflor"
+              jp="cherimu" 
+    />
+	<pokemon id="422"     species="217" 
+             en="shellos"
+             fr="sancoki"
+              jp="karanakushi"/>
+	<pokemon id="423"     species="217" 
+             en="gastrodon"
+             fr="tritosor"
+              jp="toritoidon"/>
+	<pokemon id="424"     species="93" 
+             en="ambipom"
+             fr="capidextre"
+              jp="etebossu" 
+    />
+	<pokemon id="425"     species="220" 
+             en="drifloon"
+             fr="baudrive"
+              jp="fuwante" 
+    />
+	<pokemon id="426"     species="220" 
+             en="drifblim"
+             fr="grodrive"
+              jp="fuwaraido" 
+    />
+	<pokemon id="427"     species="221" 
+             en="buneary"
+             fr="laporeille"
+              jp="mimiroru" 
+    />
+	<pokemon id="428"     species="221" 
+             en="lopunny"
+             fr="lockpin"
+              jp="mimiroppu" 
+    />
+	<pokemon id="429"     species="98" 
+             en="mismagius"
+             fr="magireve"
+              jp="muumajii" 
+    />
+	<pokemon id="430"     species="97" 
+             en="honchkrow"
+             fr="corboss"
+              jp="donkarasu" 
+    />
+	<pokemon id="431"     species="223" 
+             en="glameow"
+             fr="chaglam"
+              jp="nyaruma" 
+    />
+	<pokemon id="432"     species="223" 
+             en="purugly"
+             fr="chaffreux"
+              jp="bunyatto" 
+    />
+	<pokemon id="433"     species="184" 
+             en="chingling"
+             fr="korillon"
+              jp="riishan" 
+    />
+	<pokemon id="434"     species="224" 
+             en="stunky"
+             fr="moufouette"
+              jp="sukapuu" 
+    />
+	<pokemon id="435"     species="224" 
+             en="skuntank"
+             fr="moufflair"
+              jp="sukatanku" 
+    />
+	<pokemon id="436"     species="225" 
+             en="bronzor"
+             fr="archeomire"
+              jp="doomiraa" 
+    />
+	<pokemon id="437"     species="225" 
+             en="bronzong"
+             fr="archeodong"
+              jp="dootakun" 
+    />
+	<pokemon id="438"     species="91" 
+             en="bonsly"
+             fr="manzai"
+              jp="usohachii" 
+    />
+	<pokemon id="439"     species="57" 
+             en="mime jr."
+             fr="mime jr."
+              jp="manene" 
+    />
+	<pokemon id="440"     species="51" 
+             en="happiny"
+             fr="ptiravi"
+              jp="pinpuku" 
+    />
+	<pokemon id="441"     species="226" 
+             en="chatot"
+             fr="pijako"
+              jp="perap" 
+    />
+	<pokemon id="442"     species="227" 
+             en="spiritomb"
+             fr="spiritomb"
+              jp="mikaruge" 
+    />
+	<pokemon id="443"     species="228" 
+             en="gible"
+             fr="griknot"
+              jp="fukamaru" 
+    />
+	<pokemon id="444"     species="228" 
+             en="gabite"
+             fr="carmache"
+              jp="gabaito" 
+    />
+	<pokemon id="445"     species="228" 
+             en="garchomp"
+             fr="carchacrok"
+              jp="gaburaisu" 
+    />
+	<pokemon id="446"     species="72" 
+             en="munchlax"
+             fr="goinfrex"
+              jp="gonbe" 
+    />
+	<pokemon id="447"     species="229" 
+             en="riolu"
+             fr="riolu"
+              jp="rioru" 
+    />
+	<pokemon id="448"     species="229" 
+             en="lucario"
+             fr="lucario"
+              jp="rukario" 
+    />
+	<pokemon id="449"     species="230" 
+             en="hippopotas"
+             fr="hippopotas"
+              jp="hippopotasu" 
+    />
+	<pokemon id="450"     species="230" 
+             en="hippowdon"
+             fr="hippodocus"
+              jp="kabarudon" 
+    />
+	<pokemon id="451"     species="231" 
+             en="skorupi"
+             fr="rapion"
+              jp="scorpi" 
+    />
+	<pokemon id="452"     species="231" 
+             en="drapion"
+             fr="drascore"
+              jp="dorapion" 
+    />
+	<pokemon id="453"     species="232" 
+             en="croagunk"
+             fr="cradopaud"
+              jp="gregguru" 
+    />
+	<pokemon id="454"     species="232" 
+             en="toxicroak"
+             fr="coatox"
+              jp="dokurogu" 
+    />
+	<pokemon id="455"     species="233" 
+             en="carnivine"
+             fr="vortente"
+              jp="masukippa" 
+    />
+	<pokemon id="456"     species="234" 
+             en="finneon"
+             fr="ecayon"
+              jp="keikouo" 
+    />
+	<pokemon id="457"     species="234" 
+             en="lumineon"
+             fr="lumineon"
+              jp="neorantu" 
+    />
+	<pokemon id="458"     species="116" 
+             en="mantyke"
+             fr="babimanta"
+              jp="tamanta" 
+    />
+	<pokemon id="459"     species="235" 
+             en="snover"
+             fr="blizzi"
+              jp="yukikaburi" 
+    />
+	<pokemon id="460"     species="235" 
+             en="abomasnow"
+             fr="blizzaroi"
+              jp="yukinooh" 
+    />
+	<pokemon id="461"     species="109" 
+             en="weavile"
+             fr="dimoret"
+              jp="manyula" 
+    />
+	<pokemon id="462"     species="34" 
+             en="magnezone"
+             fr="magnezone"
+              jp="jibacoil" 
+    />
+	<pokemon id="463"     species="48" 
+             en="lickilicky"
+             fr="coudlangue"
+              jp="beruberuto" 
+    />
+	<pokemon id="464"     species="50" 
+             en="rhyperior"
+             fr="rhinastoc"
+              jp="dosaidon" 
+    />
+	<pokemon id="465"     species="52" 
+             en="tangrowth"
+             fr="bouldeneu"
+              jp="mojanbo" 
+    />
+	<pokemon id="466"     species="60" 
+             en="electivire"
+             fr="elekable"
+              jp="elekible" 
+    />
+	<pokemon id="467"     species="61" 
+             en="magmortar"
+             fr="maganon"
+              jp="buuburn" 
+    />
+	<pokemon id="468"     species="87" 
+             en="togekiss"
+             fr="togekiss"
+              jp="togekiss" 
+    />
+	<pokemon id="469"     species="95" 
+             en="yanmega"
+             fr="yanmega"
+              jp="megayanma" 
+    />
+	<pokemon id="470"     species="67" 
+             en="leafeon"
+             fr="phyllali"
+              jp="leafia" 
+    />
+	<pokemon id="471"     species="67" 
+             en="glaceon"
+             fr="givrali"
+              jp="glacia" 
+    />
+	<pokemon id="472"     species="104" 
+             en="gliscor"
+             fr="scorvol"
+              jp="glion" 
+    />
+	<pokemon id="473"     species="112" 
+             en="mamoswine"
+             fr="mammochon"
+              jp="manmuu" 
+    />
+	<pokemon id="474"     species="68" 
+             en="porygon-z"
+             fr="porygon-z"
+              jp="porygonz" 
+    />
+	<pokemon id="475"     species="140" 
+             en="gallade"
+             fr="gallame"
+              jp="erureido" 
+    />
+	<pokemon id="476"     species="147" 
+             en="probopass"
+             fr="tarinorme"
+              jp="dainoosu" 
+    />
+	<pokemon id="477"     species="182" 
+             en="dusknoir"
+             fr="noctunoir"
+              jp="yonowaaru" 
+    />
+	<pokemon id="478"     species="186" 
+             en="froslass"
+             fr="momartik"
+              jp="yukimenoko" 
+    />
+	<pokemon id="479"     species="236" 
+             en="rotom"
+             fr="motisma"
+              jp="rotomu" 
+    />
+	<pokemon id="480"     species="237" 
+             en="uxie"
+             fr="crehelf"
+              jp="yukishii" 
+    />
+	<pokemon id="481"     species="238" 
+             en="mesprit"
+             fr="crefollet"
+              jp="emuritto" 
+    />
+	<pokemon id="482"     species="239" 
+             en="azelf"
+             fr="crefadet"
+              jp="agunomuu" 
+    />
+	<pokemon id="483"     species="240" 
+             en="dialga"
+             fr="dialga"
+              jp="diaruga" 
+    />
+	<pokemon id="484"     species="241" 
+             en="palkia"
+             fr="palkia"
+              jp="parukia" 
+    />
+	<pokemon id="485"     species="242" 
+             en="heatran"
+             fr="heatran"
+              jp="hiidoran" 
+    />
+	<pokemon id="486"     species="243" 
+             en="regigigas"
+             fr="regigigas"
+              jp="regigigas" 
+    />
+	<pokemon id="487"     species="244" 
+             en="giratina"
+             fr="giratina"
+              jp="giratina" 
+    />
+	<pokemon id="488"     species="245" 
+             en="cresselia"
+             fr="cresselia"
+              jp="kureseria" 
+    />
+	<pokemon id="489"     species="246" 
+             en="phione"
+             fr="phione"
+              jp="fione" 
+    />
+	<pokemon id="490"     species="247" 
+             en="manaphy"
+             fr="manaphy"
+              jp="manaphy" 
+    />
+	<pokemon id="491"     species="248" 
+             en="darkrai"
+             fr="darkrai"
+              jp="darkrai" 
+    />
+	<pokemon id="492"     species="249" 
+             en="shaymin"
+             fr="shaymin"
+              jp="sheimi" 
+    />
+	<pokemon id="493"     species="250" 
+             en="arceus"
+             fr="arceus"
+              jp="aruseus" 
+    />
+	<!-- 5th Generation -->
+	<pokemon id="494"     species="251" 
+             en="victini"
+             fr="victini"
+              jp="victini" 
+    />
+	<pokemon id="495"     species="252" 
+             en="snivy"
+             fr="vipelierre"
+              jp="tsutarja" 
+    />
+	<pokemon id="496"     species="252" 
+             en="servine"
+             fr="lianaja"
+              jp="janovy" 
+    />
+	<pokemon id="497"     species="252" 
+             en="serperior"
+             fr="majaspic"
+              jp="jalorda" 
+    />
+	<pokemon id="498"     species="253" 
+             en="tepig"
+             fr="gruikui"
+              jp="pokabu" 
+    />
+	<pokemon id="499"     species="253" 
+             en="pignite"
+             fr="grotichon"
+              jp="chaoboo" 
+    />
+	<pokemon id="500"     species="253" 
+             en="emboar"
+             fr="roitiflam"
+              jp="enbuoh" 
+    />
+	<pokemon id="501"     species="254" 
+             en="oshawott"
+             fr="moustillon"
+              jp="mijumaru" 
+    />
+	<pokemon id="502"     species="254" 
+             en="dewott"
+             fr="mateloutre"
+              jp="futachimaru" 
+    />
+	<pokemon id="503"     species="254" 
+             en="samurott"
+             fr="clamiral"
+              jp="daikenki" 
+    />
+	<pokemon id="504"     species="255" 
+             en="patrat"
+             fr="ratentif"
+              jp="minezumi" 
+    />
+	<pokemon id="505"     species="255" 
+             en="watchog"
+             fr="miradar"
+              jp="miruhog" 
+    />
+	<pokemon id="506"     species="256" 
+             en="lillipup"
+             fr="ponchiot"
+              jp="yooterii" 
+    />
+	<pokemon id="507"     species="256" 
+             en="herdier"
+             fr="ponchien"
+              jp="haderia" 
+    />
+	<pokemon id="508"     species="256" 
+             en="stoutland"
+             fr="mastouffe"
+              jp="muurando" 
+    />
+	<pokemon id="509"     species="257" 
+             en="purrloin"
+             fr="chacripan"
+              jp="choroneko" 
+    />
+	<pokemon id="510"     species="257" 
+             en="liepard"
+             fr="leopardus"
+              jp="lepardas" 
+    />
+	<pokemon id="511"     species="258" 
+             en="pansage"
+             fr="feuillajou"
+              jp="yanappu" 
+    />
+	<pokemon id="512"     species="258" 
+             en="simisage"
+             fr="feuiloutan"
+              jp="yanakkie" 
+    />
+	<pokemon id="513"     species="259" 
+             en="pansear"
+             fr="flamajou"
+              jp="baoppu" 
+    />
+	<pokemon id="514"     species="259" 
+             en="simisear"
+             fr="flamoutan"
+              jp="baokkie" 
+    />
+	<pokemon id="515"     species="260" 
+             en="panpour"
+             fr="flotajou"
+              jp="hiyappu" 
+    />
+	<pokemon id="516"     species="260" 
+             en="simipour"
+             fr="flotoutan"
+              jp="hiyakkie" 
+    />
+	<pokemon id="517"     species="261" 
+             en="munna"
+             fr="munna"
+              jp="munna" 
+    />
+	<pokemon id="518"     species="261" 
+             en="musharna"
+             fr="mushana"
+              jp="musharna" 
+    />
+	<pokemon id="519"     species="262" 
+             en="pidove"
+             fr="poichigeon"
+              jp="mamepato" 
+    />
+	<pokemon id="520"     species="262" 
+             en="tranquill"
+             fr="colombeau"
+              jp="hatooboo" 
+    />
+	<pokemon id="521"     species="262" 
+             en="unfezant"
+             fr="deflaisan"
+              jp="kenhorou" 
+    />
+	<pokemon id="522"     species="263" 
+             en="blitzle"
+             fr="zebibron"
+              jp="shimama" 
+    />
+	<pokemon id="523"     species="263" 
+             en="zebstrika"
+             fr="zeblitz"
+              jp="zeburaika" 
+    />
+	<pokemon id="524"     species="264" 
+             en="roggenrola"
+             fr="nodulithe"
+              jp="dangoro" 
+    />
+	<pokemon id="525"     species="264" 
+             en="boldore"
+             fr="geolithe"
+              jp="gantoru" 
+    />
+	<pokemon id="526"     species="264" 
+             en="gigalith"
+             fr="gigalithe"
+              jp="gigaiath" 
+    />
+	<pokemon id="527"     species="265" 
+             en="woobat"
+             fr="chovsourir"
+              jp="koromori" 
+    />
+	<pokemon id="528"     species="265" 
+             en="swoobat"
+             fr="rhinolove"
+              jp="kokoromori" 
+    />
+	<pokemon id="529"     species="266" 
+             en="drilbur"
+             fr="rototaupe"
+              jp="mogurew" 
+    />
+	<pokemon id="530"     species="266" 
+             en="excadrill"
+             fr="minotaupe"
+              jp="doryuuzu" 
+    />
+	<pokemon id="531"     species="267" 
+             en="audino"
+             fr="nanmeouie"
+              jp="tabunne" 
+    />
+	<pokemon id="532"     species="268" 
+             en="timburr"
+             fr="charpenti"
+              jp="dokkora" 
+    />
+	<pokemon id="533"     species="268" 
+             en="gurdurr"
+             fr="ouvrifier"
+              jp="dotekkotsu" 
+    />
+	<pokemon id="534"     species="268" 
+             en="conkeldurr"
+             fr="betochef"
+              jp="roobushin" 
+    />
+	<pokemon id="535"     species="269" 
+             en="tympole"
+             fr="tritonde"
+              jp="otamaro" 
+    />
+	<pokemon id="536"     species="269" 
+             en="palpitoad"
+             fr="batracne"
+              jp="gamagaru" 
+    />
+	<pokemon id="537"     species="269" 
+             en="seismitoad"
+             fr="crapustule"
+              jp="gamageroge" 
+    />
+	<pokemon id="538"     species="270" 
+             en="throh"
+             fr="judokrak"
+              jp="nageki" 
+    />
+	<pokemon id="539"     species="271" 
+             en="sawk"
+             fr="karaclee"
+              jp="dageki" 
+    />
+	<pokemon id="540"     species="272" 
+             en="sewaddle"
+             fr="larveyette"
+              jp="kurumiru" 
+    />
+	<pokemon id="541"     species="272" 
+             en="swadloon"
+             fr="couverdure"
+              jp="kurumayu" 
+    />
+	<pokemon id="542"     species="272" 
+             en="leavanny"
+             fr="manternel"
+              jp="hahakomori" 
+    />
+	<pokemon id="543"     species="273" 
+             en="venipede"
+             fr="venipatte"
+              jp="fushide" 
+    />
+	<pokemon id="544"     species="273" 
+             en="whirlipede"
+             fr="scobolide"
+              jp="hoiiga" 
+    />
+	<pokemon id="545"     species="273" 
+             en="scolipede"
+             fr="brutapode"
+              jp="pendoraa" 
+    />
+	<pokemon id="546"     species="274" 
+             en="cottonee"
+             fr="doudouvet"
+              jp="monmen" 
+    />
+	<pokemon id="547"     species="274" 
+             en="whimsicott"
+             fr="farfaduvet"
+              jp="erufuun" 
+    />
+	<pokemon id="548"     species="275" 
+             en="petilil"
+             fr="chlorobule"
+              jp="churine" 
+    />
+	<pokemon id="549"     species="275" 
+             en="lilligant"
+             fr="fragilady"
+              jp="doredia" 
+    />
+	<pokemon id="550"     species="276" 
+             en="basculin"
+             fr="bargantua"
+              jp="basurao" 
+    />
+	<pokemon id="551"     species="277" 
+             en="sandile"
+             fr="mascaiman"
+              jp="meguroco" 
+    />
+	<pokemon id="552"     species="277" 
+             en="krokorok"
+             fr="escroco"
+              jp="waruvile" 
+    />
+	<pokemon id="553"     species="277" 
+             en="krookodile"
+             fr="crocorible"
+              jp="waruvial" 
+    />
+	<pokemon id="554"     species="278" 
+             en="darumaka"
+             fr="darumarond"
+              jp="darumakka" 
+    />
+	<pokemon id="555"     species="278" 
+             en="darmanitan"
+             fr="darumacho"
+              jp="hihidaruma" 
+    />
+	<pokemon id="556"     species="279" 
+             en="maractus"
+             fr="maracachi"
+              jp="marakacchi" 
+    />
+	<pokemon id="557"     species="280" 
+             en="dwebble"
+             fr="crabicoque"
+              jp="ishizumai" 
+    />
+	<pokemon id="558"     species="280" 
+             en="crustle"
+             fr="crabaraque"
+              jp="iwaparesu" 
+    />
+	<pokemon id="559"     species="281" 
+             en="scraggy"
+             fr="baggiguane"
+              jp="zuruggu" 
+    />
+	<pokemon id="560"     species="281" 
+             en="scrafty"
+             fr="baggaid"
+              jp="zuruzukin" 
+    />
+	<pokemon id="561"     species="282" 
+             en="sigilyph"
+             fr="cryptero"
+              jp="shinbora" 
+    />
+	<pokemon id="562"     species="283" 
+             en="yamask"
+             fr="tutafeh"
+              jp="desumasu" 
+    />
+	<pokemon id="563"     species="283" 
+             en="cofagrigus"
+             fr="tutankafer"
+              jp="desukan" 
+    />
+	<pokemon id="564"     species="284" 
+             en="tirtouga"
+             fr="carapagos"
+              jp="purotooga" 
+    />
+	<pokemon id="565"     species="284" 
+             en="carracosta"
+             fr="megapagos"
+              jp="abagoura" 
+    />
+	<pokemon id="566"     species="285" 
+             en="archen"
+             fr="arkeapti"
+              jp="aaken" 
+    />
+	<pokemon id="567"     species="285" 
+             en="archeops"
+             fr="aeropteryx"
+              jp="archeos" 
+    />
+	<pokemon id="568"     species="286" 
+             en="trubbish"
+             fr="miamiasme"
+              jp="yabukuron" 
+    />
+	<pokemon id="569"     species="286" 
+             en="garbodor"
+             fr="miasmax"
+              jp="dasutodasu" 
+    />
+	<pokemon id="570"     species="287" 
+             en="zorua"
+             fr="zorua"
+              jp="zorua" 
+    />
+	<pokemon id="571"     species="287" 
+             en="zoroark"
+             fr="zoroark"
+              jp="zoroark" 
+    />
+	<pokemon id="572"     species="288" 
+             en="minccino"
+             fr="chinchidou"
+              jp="chillarmy" 
+    />
+	<pokemon id="573"     species="288" 
+             en="cinccino"
+             fr="pashmilla"
+              jp="chillaccino" 
+    />
+	<pokemon id="574"     species="289" 
+             en="gothita"
+             fr="scrutella"
+              jp="gothimu" 
+    />
+	<pokemon id="575"     species="289" 
+             en="gothorita"
+             fr="mesmerella"
+              jp="gochimiru" 
+    />
+	<pokemon id="576"     species="289" 
+             en="gothitelle"
+             fr="siderella"
+              jp="gochiruzeru" 
+    />
+	<pokemon id="577"     species="290" 
+             en="solosis"
+             fr="nucleos"
+              jp="yuniran" 
+    />
+	<pokemon id="578"     species="290" 
+             en="duosion"
+             fr="meios"
+              jp="daburan" 
+    />
+	<pokemon id="579"     species="290" 
+             en="reuniclus"
+             fr="symbios"
+              jp="rankurusu" 
+    />
+	<pokemon id="580"     species="291" 
+             en="ducklett"
+             fr="couaneton"
+              jp="koaruhie" 
+    />
+	<pokemon id="581"     species="291" 
+             en="swanna"
+             fr="lakmecygne"
+              jp="swanna" 
+    />
+	<pokemon id="582"     species="292" 
+             en="vanillite"
+             fr="sorbebe"
+              jp="vanipeti" 
+    />
+	<pokemon id="583"     species="292" 
+             en="vanillish"
+             fr="sorboul"
+              jp="baniricchi" 
+    />
+	<pokemon id="584"     species="292" 
+             en="vanilluxe"
+             fr="sorbouboul"
+              jp="baibanira" 
+    />
+	<pokemon id="585"     species="293" 
+             en="deerling"
+             fr="vivaldaim"
+              jp="shikijika" 
+    />
+	<pokemon id="586"     species="293" 
+             en="sawsbuck"
+             fr="haydaim"
+              jp="mebukijika" 
+    />
+	<pokemon id="587"     species="294" 
+             en="emolga"
+             fr="emolga"
+              jp="emonga" 
+    />
+	<pokemon id="588"     species="295" 
+             en="karrablast"
+             fr="carabing"
+              jp="kaburumo" 
+    />
+	<pokemon id="589"     species="295" 
+             en="escavalier"
+             fr="lancargot"
+              jp="shubarugo" 
+    />
+	<pokemon id="590"     species="296" 
+             en="foongus"
+             fr="trompignon"
+              jp="tamagetake" 
+    />
+	<pokemon id="591"     species="296" 
+             en="amoonguss"
+             fr="gaulet"
+              jp="morobareru" 
+    />
+	<pokemon id="592"     species="297" 
+             en="frillish"
+             fr="viskuse"
+              jp="pururiru" 
+    />
+	<pokemon id="593"     species="297" 
+             en="jellicent"
+             fr="moyade"
+              jp="burungeru" 
+    />
+	<pokemon id="594"     species="298" 
+             en="alomomola"
+             fr="mamanbo"
+              jp="mamanbou" 
+    />
+	<pokemon id="595"     species="299" 
+             en="joltik"
+             fr="statitik"
+              jp="bachuru" 
+    />
+	<pokemon id="596"     species="299" 
+             en="galvantula"
+             fr="mygavolt"
+              jp="denchura" 
+    />
+	<pokemon id="597"     species="300" 
+             en="ferroseed"
+             fr="grindur"
+              jp="tesshiido" 
+    />
+	<pokemon id="598"     species="300" 
+             en="ferrothorn"
+             fr="noacier"
+              jp="nattorei" 
+    />
+	<pokemon id="599"     species="301" 
+             en="klink"
+             fr="tic"
+              jp="gear" 
+    />
+	<pokemon id="600"     species="301" 
+             en="klang"
+             fr="clic"
+              jp="gigear" 
+    />
+	<pokemon id="601"     species="301" 
+             en="klinklang"
+             fr="cliticlic"
+              jp="gigigear" 
+    />
+	<pokemon id="602"     species="302" 
+             en="tynamo"
+             fr="anchwatt"
+              jp="shibishirasu" 
+    />
+	<pokemon id="603"     species="302" 
+             en="eelektrik"
+             fr="lamperoie"
+              jp="shibibiiru" 
+    />
+	<pokemon id="604"     species="302" 
+             en="eelektross"
+             fr="ohmassacre"
+              jp="shibirudon" 
+    />
+	<pokemon id="605"     species="303" 
+             en="elgyem"
+             fr="lewsor"
+              jp="riguree" 
+    />
+	<pokemon id="606"     species="303" 
+             en="beheeyem"
+             fr="neitram"
+              jp="oobemu" 
+    />
+	<pokemon id="607"     species="304" 
+             en="litwick"
+             fr="funecire"
+              jp="hitomoshi" 
+    />
+	<pokemon id="608"     species="304" 
+             en="lampent"
+             fr="melancolux"
+              jp="ranpuraa" 
+    />
+	<pokemon id="609"     species="304" 
+             en="chandelure"
+             fr="lugulabre"
+              jp="shandera" 
+    />
+	<pokemon id="610"     species="305" 
+             en="axew"
+             fr="coupenotte"
+              jp="kibago" 
+    />
+	<pokemon id="611"     species="305" 
+             en="fraxure"
+             fr="incisache"
+              jp="onondo" 
+    />
+	<pokemon id="612"     species="305" 
+             en="haxorus"
+             fr="tranchodon"
+              jp="ononokusu" 
+    />
+	<pokemon id="613"     species="306" 
+             en="cubchoo"
+             fr="polarhume"
+              jp="kumasyun" 
+    />
+	<pokemon id="614"     species="306" 
+             en="beartic"
+             fr="polagriffe"
+              jp="tsunbeaa" 
+    />
+	<pokemon id="615"     species="307" 
+             en="cryogonal"
+             fr="hexagel"
+              jp="furiijio" 
+    />
+	<pokemon id="616"     species="308" 
+             en="shelmet"
+             fr="escargaume"
+              jp="chobomaki" 
+    />
+	<pokemon id="617"     species="308" 
+             en="accelgor"
+             fr="limaspeed"
+              jp="agirudaa" 
+    />
+	<pokemon id="618"     species="309" 
+             en="stunfisk"
+             fr="limonde"
+              jp="maggyo" 
+    />
+	<pokemon id="619"     species="310" 
+             en="mienfoo"
+             fr="kungfouine"
+              jp="kojofu" 
+    />
+	<pokemon id="620"     species="310" 
+             en="mienshao"
+             fr="shaofouine"
+              jp="kojondo" 
+    />
+	<pokemon id="621"     species="311" 
+             en="druddigon"
+             fr="drakkarmin"
+              jp="crimgan" 
+    />
+	<pokemon id="622"     species="312" 
+             en="golett"
+             fr="gringolem"
+              jp="gobitto" 
+    />
+	<pokemon id="623"     species="312" 
+             en="golurk"
+             fr="golemastoc"
+              jp="goruugu" 
+    />
+	<pokemon id="624"     species="313" 
+             en="pawniard"
+             fr="scalpion"
+              jp="komatana" 
+    />
+	<pokemon id="625"     species="313" 
+             en="bisharp"
+             fr="scalproie"
+              jp="kirikizan" 
+    />
+	<pokemon id="626"     species="314" 
+             en="bouffalant"
+             fr="frison"
+              jp="baffuron" 
+    />
+	<pokemon id="627"     species="315" 
+             en="rufflet"
+             fr="furaiglon"
+              jp="washibon" 
+    />
+	<pokemon id="628"     species="315" 
+             en="braviary"
+             fr="gueriaigle"
+              jp="wargle" 
+    />
+	<pokemon id="629"     species="316" 
+             en="vullaby"
+             fr="vostourno"
+              jp="baruchai" 
+    />
+	<pokemon id="630"     species="316" 
+             en="mandibuzz"
+             fr="vaututrice"
+              jp="barujiina" 
+    />
+	<pokemon id="631"     species="317" 
+             en="heatmor"
+             fr="aflamanoir"
+              jp="kuitaran" 
+    />
+	<pokemon id="632"     species="318" 
+             en="durant"
+             fr="fermite"
+              jp="aianto" 
+    />
+	<pokemon id="633"     species="319" 
+             en="deino"
+             fr="solochi"
+              jp="monozu" 
+    />
+	<pokemon id="634"     species="319" 
+             en="zweilous"
+             fr="diamat"
+              jp="jiheddo" 
+    />
+	<pokemon id="635"     species="319" 
+             en="hydreigon"
+             fr="trioxhydre"
+              jp="sazandora" 
+    />
+	<pokemon id="636"     species="320" 
+             en="larvesta"
+             fr="pyronille"
+              jp="meraruba" 
+    />
+	<pokemon id="637"     species="320" 
+             en="volcarona"
+             fr="pyrax"
+              jp="ulgamoth" 
+    />
+	<pokemon id="638"     species="321" 
+             en="cobalion"
+             fr="cobaltium"
+              jp="cobalon" 
+    />
+	<pokemon id="639"     species="322" 
+             en="terrakion"
+             fr="terrakium"
+              jp="terrakion" 
+    />
+	<pokemon id="640"     species="323" 
+             en="virizion"
+             fr="viridium"
+              jp="virizion" 
+    />
+	<pokemon id="641"     species="324" 
+             en="tornadus"
+             fr="boreas"
+              jp="tornelos" 
+    />
+	<pokemon id="642"     species="325" 
+             en="thundurus"
+             fr="fulguris"
+              jp="voltolos" 
+    />
+	<pokemon id="643"     species="326" 
+             en="reshiram"
+             fr="reshiram"
+              jp="reshiram" 
+    />
+	<pokemon id="644"     species="327" 
+             en="zekrom"
+             fr="zekrom"
+              jp="zekrom" 
+    />
+	<pokemon id="645"     species="328" 
+             en="landorus"
+             fr="demeteros"
+              jp="landlos" 
+    />
+	<pokemon id="646"     species="329" 
+             en="kyurem"
+             fr="kyurem"
+              jp="kyurem" 
+    />
+	<pokemon id="647"     species="330" 
+             en="keldeo"
+             fr="keldeo"
+              jp="kerudio"
+    />
+	<pokemon id="648"     species="331" 
+             en="meloetta"
+             fr="meloetta"
+              jp="meloetta"
+    />
+	<pokemon id="649"     species="332" 
+             en="genesect"
+             fr="genesect"
+              jp="genosect"
+    />
+
+    <!-- Deviations -->
+    <pokemon id="801"     species="71" 
+             en="old amber"
+             fr="vieil ambre"
+    />
+    <pokemon id="802"     species="70" 
+             en="dome fossil"
+             fr="fossile dôme"
+    />
+    <pokemon id="803"     species="69" 
+             en="helix fossil"
+             fr="fossile nautile"
+    />
+    <pokemon id="804"     species="211" 
+             en="armor fossil"
+             fr="fossile armure"
+    />
+    <pokemon id="805"     species="210" 
+             en="skull fossil"
+             fr="fossile crâne"
+    />
+    <pokemon id="806"     species="177" 
+             en="claw fossil"
+             fr="fossile griffe"
+    />
+    <pokemon id="807"     species="176" 
+             en="root fossil"
+             fr="fossile racine"
+    />
+    <pokemon id="810"     species="218" 
+             en="shellos east sea"
+             fr="sancoki mer orient"
+    />
+    <pokemon id="811"     species="218" 
+             en="gastrodon east sea"
+             fr="tritosor mer orient"
+    />
+    <pokemon id="812"     species="219" 
+             en="shellos west sea"
+             fr="sancoki mer occident"
+    />
+    <pokemon id="813"     species="219" 
+             en="gastrodon west sea"
+             fr="tritosor mer occident"
+    />
+    <pokemon id="820"     species="212" 
+             en="burmy plant cloak"
+             fr="cheniti cape plante"
+    />
+    <pokemon id="821"     species="212" 
+             en="wormadam plant cloak"
+             fr="cheniselle cape plante"
+    />
+    <pokemon id="822"     species="212" 
+             en="burmy sandy cloak"
+             fr="cheniti cape sable"
+    />
+    <pokemon id="823"     species="212" 
+             en="wormadam sandy cloak"
+             fr="cheniselle cape sable"
+    />
+    <pokemon id="824"     species="212" 
+             en="burmy trash cloak"
+             fr="cheniti cape déchet"
+    />
+    <pokemon id="825"     species="212" 
+             en="wormadam trash cloak"
+             fr="cheniselle cape déchet"
+    />
+    <pokemon id="826"     species="10"
+             en="flying pikachu" 
+    />
+    <pokemon id="827"     species="10"
+             en="surfing pikachu" 
+    />
+    <pokemon id="828"     species="236"
+             en="fan rotom" 
+    />
+    <pokemon id="829"     species="236"
+             en="frost rotom"
+    />
+    <pokemon id="830"     species="236"
+             en="heat rotom"
+    />
+    <pokemon id="831"     species="236"
+             en="mow rotom"
+    />
+    <pokemon id="832"     species="236"
+             en="wash rotom"
+    />
+    <pokemon id="833"     species="1000"
+             en="entei &amp; raikou"
+    />
+    <pokemon id="834"     species="1001"
+             en="raikou &amp; suicune"
+    />
+    <pokemon id="835"     species="1002" en="suicune &amp; entei" 
+    />
+    <pokemon id="836"     species="1003"
+             en="kyogre &amp; groudon"
+    />
+    <pokemon id="837"     species="1004"
+             en="rayquaza &amp; deoxys"
+    />
+    <pokemon id="838"     species="1005"
+             en="darkrai &amp; cresselia"
+    />
+    <pokemon id="839"     species="1006"
+             en="palkia &amp; dialga"
+    />
+</pokemons>

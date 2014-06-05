@@ -1,0 +1,88 @@
+<sets>
+    <!-- Diamond and perl -->
+    <set id="DP"
+         en="diamond &amp; pearl"
+         fr="diamant &amp; perle"
+    />
+    <set id="MT"    collection="DP"
+         en="mysterious treasures"
+         fr="trésors mystérieux"
+    />
+    <set id="SW"    collection="DP"
+         en="secret wonders"
+         fr="merveilles secrètes"
+    />
+    <set id="GEn"   collection="DP"
+         en="great encounters"
+         fr="duels au sommet"
+    />
+    <set id="MD"    collection="DP"
+         en="majestic dawn"
+         fr="aube majestueuse"
+    />
+    <set id="LA"    collection="DP"
+         en="legends awakened"
+         fr="éveil des légendes"
+    />
+    <set id="SF"    collection="DP"
+         en="storm front"
+         fr="tempête"
+    />
+    <!-- Platinum -->
+    <set id="PL"
+         en="platinum"
+         fr="platine"
+    />
+    <set id="RR"    collection="PL"
+         en="rising rivals"
+         fr="rivaux émergeants"
+    />
+    <set id="SV"    collection="PL"
+         en="supreme victors"
+         fr="victoire suprème"
+    />
+    <set id="AR"    collection="PL"
+         en="arceus"
+         fr="arceus"
+    />
+    <!-- Heartgold soulsilver -->
+    <set id="HGSS"
+         en="heartgold soulsilver"
+    />
+    <set id="UL"    collection="HGSS"
+         en="unleashed"
+         fr="déchainement"
+    />
+    <set id="UD"    collection="HGSS"
+         en="undaunted"
+         fr="indomptable"
+    />
+    <set id="TM"    collection="HGSS"
+         en="triumphant"
+         fr="triomphe"
+    />
+    <!-- Call of legends -->
+    <set id="CL"
+         en="call of legends"
+         fr="appel des légendes"
+    />
+    <!-- Black and white -->
+    <set id="BW"
+         en="black &amp; white"
+         fr="noir &amp; blanc"
+    />
+    <set id="EP"    collection="BW"
+         en="emerging powers"
+         fr="pouvoirs émergents"
+    />
+    <set id="NV"    collection="BW"
+         en="noble victories"
+    />
+    <set id="ND"    collection="BW"
+         en="next destinies"
+         fr="destinées futures"
+    />
+    <set id="DEX"   collection="BW"
+         en="dark explorers"
+    />
+</sets>
